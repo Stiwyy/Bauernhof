@@ -4,7 +4,7 @@ public abstract class Tier {
     private String name;
     private int age;
 
-    public Tier(String name, int age) {
+    protected Tier(String name, int age) {
         this.name = name;
         this.age = age;
     }
