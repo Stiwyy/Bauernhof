@@ -27,5 +27,5 @@ public abstract class Tier {
 
     public abstract void speak();
 
-    public abstract int move ();
+    public abstract int move();
 }

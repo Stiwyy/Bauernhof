@@ -1,6 +1,6 @@
 package org.example;
 
-public class Pferd extends Huftier{
+public class Pferd extends Huftier {
 
     public Pferd(String name, int age, int bodySize) {
         super(name, age, bodySize);
